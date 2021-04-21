@@ -6,6 +6,7 @@
     
     .hero-bg {
         background: #307D99 url("../assets/bg.jpg");
+        background-position: 10% 60%;
         background-size: cover;
         color: white;
         text-align: center;
